@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\26552e6d662244b62124d4912e73e1d0e4bd06aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a68128c280a52ceb99db4d519ab1db57fbad757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\9598677a8b1ce53473be39c9b11b0312c22b25c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9afadfa460c664d5194fb927e2d7fa8137b93ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\20af649aed2c2f49ec1b0791d760abd4e4cdbdde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f465643e20dc1605ca462bed997581042c47d8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\4153b824711d99ca58d2e9a55afadf89656cd89f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7393a41d99d6ec933648b07be8641bad4543c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\6771e04ae4c7444d1b93b9595f9f9d4bbc3b90ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51dd4c6ed542ccbb3f3bf19f0a9b1f47ed5dc5b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cashish\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_1be8dd1f1ffda4d99829c937698927c009b52884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\1cdba3ff48a26bfc65c1c92cfb6176e4e3e083fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c19ae5f644e1d77d9954efc0f74a4484e80464c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c51de5a44136a2a8bae159c1103166b8badc8027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\9a48550d8c79a22fd7dbdb33c38c2e4e57c90eeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7c00d0aefd5cdc66e60ac251bed51c8e203ad93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\b6ae68f6e031529187240bbf58d6e68777ddba7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ada4466e968ee9e110ef4800cbecf3958496a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cashish\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_22f2fdcde98f035a9a555509a3b4e031d58230c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\72e8282172ee676f85e062e7e7c67ed27721b85d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f1bb6f67737cabe2ee4f31f7f3bea612b3c4e67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\.android\build-cache\e2466ff3e9366bf09cd9ef8f94de6a534bc93ab3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a2c942f08cd5bbbacb27c27c7d9f6dedb8c38be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="46d814c68e7f3ea35dafbcf1ea99a2d5ae27d860">
+        <dex dex="C:\Users\Anton G Neuhold Jr\Desktop\Development\Android_Studio_Projects\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2a5343511116ecd6a59abf9b433107874819075\classes.dex" />
+    </item>
+
+</items>

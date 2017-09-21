@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
   }
   
-  // This is a test message to see if github is updating.
-  
   /** Called when the user taps the Send button */
   public void sendMessage(View view) {
     Intent intent = new Intent(this, DisplayMessageActivity.class);
